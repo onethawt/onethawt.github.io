@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>one.thawt.io - one.thawt.io</title>
+  <title>IDAPython Plugin - Xref Counter - one.thawt.io</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
   <meta name="keywords" content="">
-  <link rel="canonical" href="http://one.thawt.io/">
+  <link rel="canonical" href="http://one.thawt.io/dataxrefcounter/">
 
   
   
@@ -25,7 +25,7 @@
 <body class="">
 
 <div class="site-wrap">
-    <header class="site-header px2 px-responsive">
+  <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
       <a href="http://one.thawt.io" class="site-title">one.thawt.io</a>
@@ -42,24 +42,28 @@
   </div>
 </header>
 
-    
-    <div class="post p2 p-responsive wrap" role="main">
-        <div class="measure">
-            <div class="home">
-                <div class="posts">
-                    
-                        
-                            
-                        
-                            
-                        
-                            
-                        
-                    
-                </div>
-            </div>
-        </div>
+  <div class="post p2 p-responsive wrap" role="main">
+    <div class="measure">
+      <div class="post-header mb2">
+        <h1 class="py2">IDAPython Plugin - Xref Counter</h1>
+      </div>
+
+      <article class="post-content">
+      <p>I created a small IDAPython which enumerates all of the xrefs in IDA within a given segment, counts the cross references, and then lists the address along with its xref count in a table. From there you can navigate to the actual address and export the data table to a csv file.</p>
+
+<p>I&rsquo;ve found this to be a tremendous help in reverse engineering large executables (games) which use global variables. In the demo video below, I&rsquo;m running the scan on Diablo 3 patch 2.3. The second most referenced global offset happens to be the game&rsquo;s ObjectManager.</p>
+
+<p><div class="embed video-player">
+<iframe class="youtube-player" type="text/html" width="640" height="385"
+  src="//www.youtube.com/embed/r_lbYsU3jSU" allowfullscreen
+  frameborder="0"/>
+</iframe>
+</div>
+</p>
+
+      </article>
     </div>
+  </div>
 </div>
     <footer class="footer">
       <div class="p2 wrap">
