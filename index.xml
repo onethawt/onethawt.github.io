@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on thawt.io </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 15 Sep 2015 12:14:54 EDT</updated>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 15 Sep 2015 12:14:54 EDT</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>github: onethawt email: one.thawt [at] gmail.com twitter: one_thawt</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 15 Sep 2015 12:01:48 EDT</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m an eternal student with interests in distributed computing, high performance computing, functional programming, low-level programming, and reverse engineering. In my spare time, I enjoy studying economics and finance. github: onethawt email: one.thawt [at] gmail.com twitter: one_thawt</description>
+    </item>
+    
+  </channel>
+</rss>
+
