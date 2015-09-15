@@ -3,7 +3,7 @@
   <channel>
       <title> on thawt.io </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/</link>
+    <link>http://thawt.io/</link>
     <language>en-us</language>
     
     
@@ -11,19 +11,19 @@
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://thawt.io/contact/</link>
       <pubDate>Tue, 15 Sep 2015 12:14:54 EDT</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://thawt.io/contact/</guid>
       <description>github: onethawt email: one.thawt [at] gmail.com twitter: one_thawt</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://thawt.io/about/</link>
       <pubDate>Tue, 15 Sep 2015 12:01:48 EDT</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://thawt.io/about/</guid>
       <description>I&amp;rsquo;m an eternal student with interests in distributed computing, high performance computing, functional programming, low-level programming, and reverse engineering. In my spare time, I enjoy studying economics and finance. github: onethawt email: one.thawt [at] gmail.com twitter: one_thawt</description>
     </item>
     
