@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on one.thawt.io </title>
+      <title>Ida on one.thawt.io </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://one.thawt.io/</link>
+    <link>http://one.thawt.io/tags/ida/</link>
     <language>en-us</language>
     
     
@@ -16,24 +16,6 @@
       
       <guid>http://one.thawt.io/post/dataxrefcounter/</guid>
       <description>I created a small IDAPython plugin which enumerates all of the the x-references in a specific segment and counts the frequency of usage. The plugin displays the data in QtTableWidget and lets the user filter and sort the references. You can also export the data to a CSV file. You can find the code at my github repository. This plugin is particularly useful when reverse engineering large executables (games). In the video below, I demonstrate the plugin on an IDA database of Diablo 3 (patch 2.3).</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://one.thawt.io/contact/</link>
-      <pubDate>Tue, 15 Sep 2015 12:14:54 EDT</pubDate>
-      
-      <guid>http://one.thawt.io/contact/</guid>
-      <description>github: onethawt email: one.thawt [at] gmail.com twitter: one_thawt reddit: /user/one_thawt and /r/onethawt</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://one.thawt.io/about/</link>
-      <pubDate>Tue, 15 Sep 2015 12:01:48 EDT</pubDate>
-      
-      <guid>http://one.thawt.io/about/</guid>
-      <description>I&amp;rsquo;m an eternal student with interests in distributed computing, high performance computing, functional programming, low-level programming, and reverse engineering. In my spare time, I enjoy studying economics and finance. github: onethawt email: one.thawt [at] gmail.com twitter: one_thawt reddit: /user/one_thawt and /r/onethawt</description>
     </item>
     
   </channel>

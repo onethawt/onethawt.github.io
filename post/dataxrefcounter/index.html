@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Categories - one.thawt.io</title>
+  <title>IDAPython Reference Counter - one.thawt.io</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
   <meta name="keywords" content="">
-  <link rel="canonical" href="http://one.thawt.io/categories/">
+  <link rel="canonical" href="http://one.thawt.io/post/dataxrefcounter/">
 
   
   
@@ -44,17 +44,43 @@
 
   <div class="post p2 p-responsive wrap" role="main">
     <div class="measure">
+      <div class="post-header mb2">
+        <h1 class="py2">IDAPython Reference Counter</h1>
+        <span class="post-meta">Sep 15, 2015 by </span><br>
+        
+      </div>
 
-  <div>
-   
-   
-   <h3 id="title">Categories</h3>
-   
-    
-    <a href="http://one.thawt.io/categories/reverse-engineering"> reverse-engineering </a> 1 <br>
-    
-    
-  </div>
+      <article class="post-content">
+      <p>I created a small IDAPython plugin which enumerates all of the the x-references in a specific segment and counts the frequency of usage. The plugin displays the data in QtTableWidget and lets the user filter and sort the references. You can also export the data to a CSV file.</p>
+
+<p>You can find the code at my <a href="https://github.com/onethawt/idapyscripts">github repository</a>.</p>
+
+<p>This plugin is particularly useful when reverse engineering large executables (games). In the video below, I demonstrate the plugin on an IDA database of Diablo 3 (patch 2.3). The second most referenced data offset happens to be the ObjectManager, which contains many of the interesting game data values and pointers to other structures.</p>
+
+<p><div class="embed video-player">
+<iframe class="youtube-player" type="text/html" width="640" height="385"
+  src="//www.youtube.com/embed/r_lbYsU3jSU" allowfullscreen
+  frameborder="0"/>
+</iframe>
+</div>
+</p>
+
+      </article>
+
+      <p class="post-meta">Tags:&nbsp;
+        
+            
+            <a href="http://one.thawt.io/tags/IDA">IDA</a>
+        
+            ,&nbsp;
+            <a href="http://one.thawt.io/tags/Python">Python</a>
+        
+            ,&nbsp;
+            <a href="http://one.thawt.io/tags/Reverse%20Engineering">Reverse Engineering</a>
+        
+      </p>
+
+      
 
     </div>
   </div>

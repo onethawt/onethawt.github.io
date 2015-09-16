@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Blogs on one.thawt.io </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/blog/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 15 Sep 2015 19:05:12 EDT</updated>
+    
+    <item>
+      <title>IDAPython Plugin - Xref Counter</title>
+      <link>http://localhost:1313/blog/dataxrefcounter/</link>
+      <pubDate>Tue, 15 Sep 2015 19:05:12 EDT</pubDate>
+      
+      <guid>http://localhost:1313/blog/dataxrefcounter/</guid>
+      <description>I created a small IDAPython which enumerates all of the xrefs in IDA within a given segment, counts the cross references, and then lists the address along with its xref count in a table. From there you can navigate to the actual address and export the data table to a csv file. You can find it at my github repository. I&amp;rsquo;ve found this to be a tremendous help in reverse engineering large executables (games) which use global variables.</description>
+    </item>
+    
+  </channel>
+</rss>
+
