@@ -7,7 +7,16 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 15 Sep 2015 20:12:50 EDT</updated>
+    <updated>Tue, 15 Sep 2015 20:41:09 EDT</updated>
+    
+    <item>
+      <title>Reverse Engineering Reading List</title>
+      <link>http://one.thawt.io/post/reverseengineering-reading-list/</link>
+      <pubDate>Tue, 15 Sep 2015 20:41:09 EDT</pubDate>
+      
+      <guid>http://one.thawt.io/post/reverseengineering-reading-list/</guid>
+      <description>I&amp;rsquo;m compiling an &amp;ldquo;awesome&amp;rdquo; list of reverse engineering resources over at my reverseengineering-reading-list github repository. Feel free to contribute!</description>
+    </item>
     
     <item>
       <title>IDAPython Reference Counter</title>
