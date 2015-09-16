@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Plugins on one.thawt.io </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://one.thawt.io/tags/plugins/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 15 Sep 2015 22:41:09 EDT</updated>
+    
+    <item>
+      <title>IDA Plugin List</title>
+      <link>http://one.thawt.io/post/idaplugins-list/</link>
+      <pubDate>Tue, 15 Sep 2015 22:41:09 EDT</pubDate>
+      
+      <guid>http://one.thawt.io/post/idaplugins-list/</guid>
+      <description>I&amp;rsquo;m compiling an &amp;ldquo;awesome&amp;rdquo; list of IDA plugins over at my idaplugins-list github repository. Feel free to contribute!</description>
+    </item>
+    
+  </channel>
+</rss>
+
